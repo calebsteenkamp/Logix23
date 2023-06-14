@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Caleb Steenkamp
 - 👀 I’m interested in Automation, Blockchain and Software Engineering
 - 🌱 I’m currently learning Full-stack Engineering
-- 💞️ I’m looking to collaborate on Blockchain projects
+- 💞️ I’m looking to collaborate on Full-stack Engineering projects
 - 📫 How to reach me on Linkedin @ https://www.linkedin.com/in/caleb-steenkamp/
 
 <!---
